@@ -1,7 +1,7 @@
 Package: deltabreedquery
 Type: Package
 Title: Fast, Simple API Tools for Retrieving Data from 'DeltaBreed'
-Version: 1.0.3
+Version: 1.0.4
 Authors@R: c(
     person("Tyr", "Wiesner-Hanks",
     email = "twiesnerhanks@ufl.edu", role = c("aut","cre"),
@@ -25,8 +25,8 @@ Depends: R (>= 4.1)
 Imports: httr2, dplyr, tidyr, rlang, jsonlite
 Config/roxygen2/version: 8.1.0
 NeedsCompilation: no
-Packaged: 2026-08-20 18:02:56 UTC; twiesnerhanks
+Packaged: 2026-09-29 16:10:59 UTC; twiesnerhanks
 Author: Tyr Wiesner-Hanks [aut, cre] (ORCID:
     <https://orcid.org/0000-0002-3280-5749>)
 Repository: CRAN
-Date/Publication: 2026-08-25 14:50:09 UTC
+Date/Publication: 2026-09-30 20:10:08 UTC
